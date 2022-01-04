@@ -1,2 +1,3 @@
 # study_2
-Paint App
+
+BASIT DENEME PAINT UYGULAMASI
